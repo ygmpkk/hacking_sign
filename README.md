@@ -39,11 +39,11 @@ data.append('file', FILE);
 ...PUT YOUR HTTP REQUEST LOGICAL CODE HERE
 ```
 
-[build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
-[build]: https://travis-ci.org/user/repo
+[build-badge]: https://img.shields.io/travis/ygmpkk/hacking_sign/master.png?style=flat-square
+[build]: https://travis-ci.org/ygmpkk/hacking_sign
 
-[npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
-[npm]: https://www.npmjs.org/package/npm-package
+[npm-badge]: https://img.shields.io/npm/v/@happyhacking/sign.png?style=flat-square
+[npm]: https://www.npmjs.org/package/@happyhacking/sign
 
-[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/user/repo
+[coveralls-badge]: https://img.shields.io/coveralls/ygmpkk/hacking_sign/master.png?style=flat-square
+[coveralls]: https://coveralls.io/github/ygmpkk/hacking_sign
